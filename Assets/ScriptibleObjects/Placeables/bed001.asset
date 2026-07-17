@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dee4f13eec823e448862553145cf2fb, type: 3}
+  m_Name: bed001
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1045846799285724, guid: 1fd3e255c8e54024d825070069d505df, type: 2}
+  AssetBundlePath: Assets/ScriptibleObjects/Placeables\bed001.asset
+  Name: 
+  Cost: 10
+  ShopSprite: {fileID: 21300000, guid: e30f4c36778564c41895f9f0b2dbea39, type: 3}
+  DefaultPlaceableData:
+    Size: {x: 8, y: 1, z: 8}
+    ResourceFileLocation: 
+    Color: {r: 0, g: 0, b: 0, a: 0}
+    PlacableType: 0

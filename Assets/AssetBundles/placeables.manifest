@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 959428430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 343b289fb8daf59d0cf45cf8cd493499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04c8a49492db5c446144d418c7f9e8c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5dea551c7642e14ea322dc5dfe8f3b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dee4f13eec823e448862553145cf2fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80835ea7680b7054fac1b4bc36dfc52f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ScriptibleObjects/Placeables/chair_ph.asset
+- Assets/ScriptibleObjects/Placeables/bed001.asset
+- Assets/ScriptibleObjects/Placeables/plant001.asset
+- Assets/ScriptibleObjects/Placeables/couch2x1_ph.asset
+- Assets/ScriptibleObjects/Placeables/couch3x1_ph.asset
+- Assets/ScriptibleObjects/Placeables/speaker003.asset
+- Assets/ScriptibleObjects/Placeables/floorpillow.asset
+Dependencies: []

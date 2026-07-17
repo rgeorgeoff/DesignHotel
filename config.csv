@@ -1,0 +1,5 @@
+key,type,value,segment,priority
+test,string,"configTestval",All Current Users,
+testbool,bool,TRUE,All Current Users,
+testint,int,123,All Current Users,
+testfloat,float,1.24213,All Current Users,

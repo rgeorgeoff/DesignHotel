@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dee4f13eec823e448862553145cf2fb, type: 3}
+  m_Name: plant001
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1886713651755474, guid: 0275cc599b432a246beccdc533065e92, type: 2}
+  AssetBundlePath: Assets/ScriptibleObjects/Placeables\plant001.asset
+  Name: 
+  Cost: 5
+  ShopSprite: {fileID: 21300014, guid: 81e53003149939344b65131f39df31b6, type: 3}
+  DefaultPlaceableData:
+    Size: {x: 1, y: 1, z: 1}
+    ResourceFileLocation: 
+    Color: {r: 0, g: 0, b: 0, a: 0}
+    PlacableType: 0

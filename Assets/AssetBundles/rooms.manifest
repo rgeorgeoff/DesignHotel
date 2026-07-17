@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 751058494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee48479c767ea7bf9d6b3a47ee40eb51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7369b12b1db8e4541a29ae2983b6047
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d54070215392c3b45b999cf90bbb2f5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5569e691cb4da67429197b51757acfed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dee4f13eec823e448862553145cf2fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c7ee9a378b315843b554de20e13250b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a025783b14064e9d8ef74d288cd1f1af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e2794eea4e00174988df0abd0104699, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ScriptibleObjects/Rooms/room_ph_light.asset
+- Assets/ScriptibleObjects/Rooms/room_ph.asset
+Dependencies: []

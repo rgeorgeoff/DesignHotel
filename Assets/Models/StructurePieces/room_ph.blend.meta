@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f3e9e4337cc1d9a4697f0932f62b0de8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane
+    100004: rotation
+    100006: backWall
+    100008: Empty
+    100010: floor
+    100012: fronWall
+    100014: leftFront
+    100016: leftWall
+    100018: Plane_002
+    100020: Plane_003
+    100022: Plane_004
+    100024: Plane_005
+    100026: Plane_006
+    100028: Plane_007
+    100030: Plane_008
+    100032: rightWall
+    100034: RoomParent
+    100036: frontWall
+    100038: Plane_001
+    100040: backWallEdgeLeft
+    100042: backWallEdgeRight
+    100044: frontWallEdgeLeft
+    100046: frontWallEdgeRight
+    100048: leftWallEdgeLeft
+    100050: leftWallEdgeRight
+    100052: rightWallEdgeLeft
+    100054: rightWallEdgeRight
+    400000: //RootNode
+    400002: Plane
+    400004: rotation
+    400006: backWall
+    400008: Empty
+    400010: floor
+    400012: fronWall
+    400014: leftFront
+    400016: leftWall
+    400018: Plane_002
+    400020: Plane_003
+    400022: Plane_004
+    400024: Plane_005
+    400026: Plane_006
+    400028: Plane_007
+    400030: Plane_008
+    400032: rightWall
+    400034: RoomParent
+    400036: frontWall
+    400038: Plane_001
+    400040: backWallEdgeLeft
+    400042: backWallEdgeRight
+    400044: frontWallEdgeLeft
+    400046: frontWallEdgeRight
+    400048: leftWallEdgeLeft
+    400050: leftWallEdgeRight
+    400052: rightWallEdgeLeft
+    400054: rightWallEdgeRight
+    2100000: unnamed
+    2300000: //RootNode
+    2300002: Plane
+    2300004: backWall
+    2300006: floor
+    2300008: fronWall
+    2300010: leftFront
+    2300012: leftWall
+    2300014: Plane_002
+    2300016: Plane_003
+    2300018: Plane_004
+    2300020: Plane_005
+    2300022: Plane_006
+    2300024: Plane_007
+    2300026: Plane_008
+    2300028: rightWall
+    2300030: frontWall
+    2300032: Plane_001
+    2300034: backWallEdgeLeft
+    2300036: backWallEdgeRight
+    2300038: frontWallEdgeLeft
+    2300040: frontWallEdgeRight
+    2300042: leftWallEdgeLeft
+    2300044: leftWallEdgeRight
+    2300046: rightWallEdgeLeft
+    2300048: rightWallEdgeRight
+    3300000: //RootNode
+    3300002: Plane
+    3300004: backWall
+    3300006: floor
+    3300008: fronWall
+    3300010: leftFront
+    3300012: leftWall
+    3300014: Plane_002
+    3300016: Plane_003
+    3300018: Plane_004
+    3300020: Plane_005
+    3300022: Plane_006
+    3300024: Plane_007
+    3300026: Plane_008
+    3300028: rightWall
+    3300030: frontWall
+    3300032: Plane_001
+    3300034: backWallEdgeLeft
+    3300036: backWallEdgeRight
+    3300038: frontWallEdgeLeft
+    3300040: frontWallEdgeRight
+    3300042: leftWallEdgeLeft
+    3300044: leftWallEdgeRight
+    3300046: rightWallEdgeLeft
+    3300048: rightWallEdgeRight
+    4300000: Cube
+    4300002: Plane
+    4300004: leftWall
+    4300006: Plane_006
+    4300008: Plane_007
+    4300010: Plane_008
+    4300012: Plane_005
+    4300014: Plane_004
+    4300016: Plane_003
+    4300018: leftFront
+    4300020: floor
+    4300022: rightWall
+    4300024: Plane_002
+    4300026: backWall
+    4300028: fronWall
+    4300030: Plane_001
+    4300032: frontWall
+    4300034: leftWallEdgeLeft
+    4300036: leftWallEdgeRight
+    4300038: rightWallEdgeRight
+    4300040: rightWallEdgeLeft
+    4300042: backWallEdgeLeft
+    4300044: backWallEdgeRight
+    4300046: frontWallEdgeRight
+    4300048: frontWallEdgeLeft
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

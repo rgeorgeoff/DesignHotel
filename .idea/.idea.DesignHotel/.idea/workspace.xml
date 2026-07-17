@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="934986c8-61a7-422b-93b7-882d14abdcfe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NavMeshSurface.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6494">
+              <caret line="385" column="59" selection-start-line="385" selection-start-column="59" selection-end-line="385" selection-end-column="59" />
+              <folding>
+                <marker date="1546808891046" expanded="false" signature="6:104" ph="..." />
+                <marker date="1546808891046" expanded="true" signature="137:19101" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="170:241" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="493:19099" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="3603:3669" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="3694:3765" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="3791:3867" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="3898:4773" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="4114:4349" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="4145:4311" ph="/* Debug.LogFormat(&quot;NavMeshData from {0}.{1} will not be added to the NavMesh world because the gameObject is a p ... */" />
+                <marker date="1546808891046" expanded="true" signature="4465:4664" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="4807:4934" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="4990:5687" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="5121:5302" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="5337:5471" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="5506:5643" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="5723:6676" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="5791:6001" ph="/* Use unscaled bounds - this differs in behaviour from e.g. collider components. ... */" />
+                <marker date="1546808891046" expanded="true" signature="6171:6262" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="6454:6666" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="6739:7369" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="6807:7017" ph="/* Use unscaled bounds - this differs in behaviour from e.g. collider components. ... */" />
+                <marker date="1546808891046" expanded="true" signature="7423:8115" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="7645:7896" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="7676:7858" ph="/* Debug.LogFormat(&quot;NavMeshData from {0}.{1} will not be added to the NavMesh world because the gameObject is a p ... */" />
+                <marker date="1546808891046" expanded="true" signature="8171:8338" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="8374:8525" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="8599:10150" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="8897:9101" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="9118:9213" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="9255:10140" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="10201:13807" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="10434:10626" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="10643:10732" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="10774:11273" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="11337:12444" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="11411:11630" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="11700:11924" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="11992:12430" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="12468:13379" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="12542:12696" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="12766:12925" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="12993:13365" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="13846:13946" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="14014:14465" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="14536:16190" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="14843:16044" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="14892:16030" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="15199:15624" ph="/* case NavMeshBuildSourceShape.Terrain: ... */" />
+                <marker date="1546808891046" expanded="true" signature="16226:16406" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="16451:16595" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="16500:16585" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="16648:17777" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="17491:17683" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="17804:19086" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="17853:18036" ph="{...}" />
+                <marker date="1546808891046" expanded="true" signature="18148:19076" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavMeshSourceTag.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppStoreSettingsEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreSettingsEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventTest.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/EventTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewTestScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/NewTestScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinDrawer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EventManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+              <folding>
+                <marker date="1546809391788" expanded="true" signature="6:47" ph="..." />
+                <marker date="1546809391788" expanded="true" signature="99:2245" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="317:846" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="877:917" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="945:1056" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="1144:1578" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="1282:1415" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="1432:1568" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="1665:1919" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="2005:2239" ph="{...}" />
+                <marker date="1546809391788" expanded="true" signature="2150:2229" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultConfigs.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/DefaultConfigs.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+              <folding>
+                <marker date="1546805744645" expanded="false" signature="6:52" ph="..." />
+                <marker date="1546805744645" expanded="true" signature="270:2362" ph="{...}" />
+                <marker date="1546805744645" expanded="true" signature="412:1769" ph="{...}" />
+                <marker date="1546805744645" expanded="true" signature="528:879" ph="{...}" />
+                <marker date="1546805744645" expanded="true" signature="881:1162" ph="/* PlaceableData pd = new PlaceableData ... */" />
+                <marker date="1546805744645" expanded="true" signature="1272:1624" ph="{...}" />
+                <marker date="1546805744645" expanded="true" signature="1820:1947" ph="{...}" />
+                <marker date="1546805744645" expanded="true" signature="2029:2355" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddRoomController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/AddRoomController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding>
+                <marker date="1546803481504" expanded="false" signature="6:184" ph="..." />
+                <marker date="1546803481504" expanded="true" signature="231:613" ph="{...}" />
+                <marker date="1546803481504" expanded="true" signature="247:324" ph="{...}" />
+                <marker date="1546803481504" expanded="true" signature="365:611" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+              <folding>
+                <marker date="1546803594328" expanded="false" signature="6:242" ph="..." />
+                <marker date="1546803594328" expanded="true" signature="304:9409" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="319:809" ph="/* room grids job is to help reference the roomData to the references of the live objects that we spawn due to th ... */" />
+                <marker date="1546803594328" expanded="true" signature="1040:1177" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="1294:3670" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="2370:3528" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="3741:3891" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="3969:4057" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="4090:4512" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="4289:4461" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="4614:4831" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="4752:4821" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="4923:4982" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5066:5131" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5238:5381" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5436:5506" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5578:5901" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5690:5784" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="5975:6056" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="6099:6178" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="6282:6377" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="6500:6642" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="6770:6864" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="6964:7114" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7030:7104" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7205:7354" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7271:7344" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7467:7542" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7608:7735" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="7824:8011" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="8110:8190" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="8248:8601" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="8657:9015" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="9058:9122" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="9215:9274" ph="{...}" />
+                <marker date="1546803594328" expanded="true" signature="9342:9403" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PlaceableLocations</find>
+      <find>Rotate</find>
+      <find>remove</find>
+      <find>_grid</find>
+      <find>IRoomController</find>
+      <find>scale</find>
+      <find>EventName.RoomSelected</find>
+      <find>camera</find>
+      <find>GetCom</find>
+      <find>lerpTo</find>
+      <find>Giz</find>
+      <find>Color.red</find>
+      <find>DTM</find>
+      <find>position</find>
+      <find>transform.position</find>
+      <find>cameraMovementEnabled</find>
+      <find>RoomDeselected</find>
+      <find>ConfirmPlaceObject</find>
+      <find>SaveModel</find>
+      <find>RoomNo</find>
+      <find>lockedVerticalMovement</find>
+      <find>buildasse</find>
+      <find>selected</find>
+      <find>ConfirmButton</find>
+      <find>cancel</find>
+      <find>here</find>
+      <find>_pickUpLocation</find>
+      <find>ResetCurrentToPickUpLocation</find>
+      <find>_placeableSender</find>
+      <find>em</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>placeableDefaultInfo</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/6a/d45daea8/Touch.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/27/f172058c/FileInfo.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1840AF8C-E009-448A-8D42-710444E8BD7A/10/7ebf285e/AssetBundle.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FatFinger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableFootprintDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EditModeButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/c7/188dd8ca/Monitor.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomWallManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestLinqScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/NewTestScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VisualsHider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/548CE49A-FA67-4B90-A074-9067AEBB2C19/6b/331564f9/Enumerable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestAssetBundles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/73/40f12814/Input.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GiftBoxSequence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6258E3D-7F59-4E3B-8D0C-F4DC34EE16EC/7c/43e3032f/EventArgs.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2E6809A-CB14-476A-81F3-99AEB800F8F2/c3/b2d5a024/Action`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ItemModifyWheel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0CEFE26-1478-4D45-962D-E2A6FC697B23/5d/21f8ef8c/Enumerable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Shop/ShopButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Shop/ShopScrollUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/PlaceableShopView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/DefaultConfigs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/GameObjectAssetBundleInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/PlaceableDefaultInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54E28512-DE74-4749-818A-2C82B66FE5DE/4f/30e1a984/ExecuteEvents.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/PlaceableData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/RoomData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/HotelData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/RoomGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/InventoryData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/33/2aa58d4e/Transform.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/ModelEnums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/QuickOutline/Scripts/Outline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/60/6790302d/IDisposable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/0d/ebcdd451/Vector3.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/29/39245278/ScreenOrientation.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/IDataStoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/MVCConnector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/WallEdgeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/57/2151ff7a/Dictionary`2.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EventBasedGameStateController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/b2/28aa0022/Ray.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/RoomSelectionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/DefaultDataStoreManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GameMainManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ObjectPoolManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/f1/cca8c739/Gizmos.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/InventoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/RemoteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/IManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/PlaceableShopController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/SceneManagers/SceneManagerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/SceneManagers/MainGameSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97F62301-CF01-49A2-AFD9-8E4E23168369/ea/d3cf93be/IComponent.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/PlacableSelectedEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/CameraMovedEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/RoomSelectedEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/EditButtonEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClassTypes/Vector3IntSerializationSurrogate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClassTypes/ColorSerializationSurrogate - Copy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClassTypes/BiDictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/4c/aa6d606d/Vector3Int.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraScripts/TouchCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraScripts/RoomInFocusHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GridControllers/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/AddRoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/IRoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/4b/ca8f3b4f/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/f4/8591c1d1/SendMouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/IPlacableEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/Placeable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/DefaultPlaceableEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomChild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/1f/fc3e3648/Vector2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/PlaceableChild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/HotelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/EventTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/RemoteSettings/DriveablePropertyDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5F8F12B8-1C2A-4DE1-974A-9E2DF83E60F8/98/bd81ceb2/BuildPipeline.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/52/5e642872/GameObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/26/2f0afd8b/Vector3Int.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54E28512-DE74-4749-818A-2C82B66FE5DE/33/fd8885c6/PointerEventData.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/f6/0a2c0464/EventArgs.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/RemoteSettings/RemoteSettingsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreSettingsEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6258E3D-7F59-4E3B-8D0C-F4DC34EE16EC/e9/2316aeef/Dictionary`2.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/CreateAssetBundles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/b9/0b62fbe0/FileInfo.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E4200C-CDA7-4037-B5FC-8C34C9135930/93/b1be3d82/Dictionary`2.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5F8F12B8-1C2A-4DE1-974A-9E2DF83E60F8/3f/6f5dc7e7/AssetBundleBuild.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/2c/a3ff10e5/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7677E71-9657-4BC9-AC47-B4F774AAE33F/61/d55d4fd9/AssetDatabase.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/PlaceableModelsToPrefabs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46892B62-87CE-45C1-AC83-2E0BCC836C80/b3/6a13b842/Enumerable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7677E71-9657-4BC9-AC47-B4F774AAE33F/7b/fce92b46/PrefabUtility.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomChild.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/GridSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClassTypes/BiDictionary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/AssetBundleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridControllers/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/PlaceableModelsToPrefabs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/PlaceableShopController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/IRoomController.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuickOutline/Scripts/Outline.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameMainManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/PlaceableChild.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventArgs/CameraMovedEventArgs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/RemoteConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/WallEdgeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/RoomData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/CreateAssetBundles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomWallManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/WallEdgeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/RoomSelectorHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventArgs/RoomSelectedEventArgs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/RoomInFocusHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/TouchCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventArgs/EditButtonEventArgs.cs" />
+        <option value="$PROJECT_DIR$/Assets/EditModeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Views/PlaceableShopView.cs" />
+        <option value="$PROJECT_DIR$/Assets/VisualsHider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VisualsHider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScripts/RoomInFocusHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Shop/ShopScrollUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/RoomSelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/HotelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GridTakeUpSpaceDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SceneManagers/MainGameSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScripts/TouchCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlaceableFootprintDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Materials/GridShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/Room.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaceableFootprintDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ItemModifyWheel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/AddRoomController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/Placeable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildControllers/DefaultPlaceableEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/DefaultConfigs.cs" />
+        <option value="$PROJECT_DIR$/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/EventTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/NewTestScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1879" />
+    <option name="y" value="-21" />
+    <option name="width" value="1694" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NavMeshComponentsTestsPlaymode" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DesignHotel (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="EventManager&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/EventManager.cs&#10;def&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Models/DefaultConfigs.cs&#10;defa&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/DefaultDataStoreManger.cs&#10;Asset&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/AssetBundleManager.cs&#10;DDS&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/DefaultDataStoreManger.cs&#10;Defa&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Models/DefaultConfigs.cs&#10;Hote&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/BuildControllers/HotelController.cs&#10;plac&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/BuildControllers/DefaultPlaceableEditor.cs&#10;add&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/BuildControllers/AddRoomController.cs&#10;room&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/RoomSelectionManager.cs&#10;walle&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/WallEdgeManager.cs&#10;assetb&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Editor/CreateAssetBundles.cs&#10;Def&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Models/DefaultConfigs.cs&#10;wallEd&#9;null&#9;null&#10;PC&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/BuildControllers/PlaceableChild.cs&#10;hotelc&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/BuildControllers/HotelController.cs&#10;RoomS&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/RoomSelectionManager.cs&#10;replace&#9;ACTION&#9;Replace&#10;PSV&#9;null&#9;null&#10;refa&#9;ACTION&#9;Refactorings.QuickListPopupAction&#10;DE&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Models/DefaultConfigs.cs&#10;Game&#9;FILE&#9;file://E:/UnityProjects/DesignHotel/Assets/Scripts/Managers/GameMainManager.cs&#10;docu&#9;ACTION&#9;QuickJavaDoc&#10;buildall&#9;null&#9;null&#10;renam&#9;ACTION&#9;RenameElement&#10;rename&#9;ACTION&#9;RenameElement" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnityCore" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="388">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="388" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934986c8-61a7-422b-93b7-882d14abdcfe" name="Default" comment="" />
+      <created>1539221545363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539221545363</updated>
+      <workItem from="1539221547042" duration="1067000" />
+      <workItem from="1539222628430" duration="10561000" />
+      <workItem from="1539312906089" duration="23845000" />
+      <workItem from="1539471505325" duration="20084000" />
+      <workItem from="1539655322134" duration="4234000" />
+      <workItem from="1539823404161" duration="22321000" />
+      <workItem from="1540063662066" duration="575000" />
+      <workItem from="1540064261313" duration="8509000" />
+      <workItem from="1540172720154" duration="8245000" />
+      <workItem from="1540573408978" duration="2466000" />
+      <workItem from="1540601210181" duration="628000" />
+      <workItem from="1540716217272" duration="2333000" />
+      <workItem from="1540750346222" duration="11670000" />
+      <workItem from="1540954614734" duration="5471000" />
+      <workItem from="1541045939993" duration="5108000" />
+      <workItem from="1541128110285" duration="9194000" />
+      <workItem from="1541287598148" duration="13685000" />
+      <workItem from="1541643293263" duration="9009000" />
+      <workItem from="1541740863087" duration="6677000" />
+      <workItem from="1541829347296" duration="45420000" />
+      <workItem from="1543795420770" duration="6149000" />
+      <workItem from="1543891244103" duration="7019000" />
+      <workItem from="1544298139220" duration="695000" />
+      <workItem from="1544390557486" duration="14175000" />
+      <workItem from="1544668261467" duration="2261000" />
+      <workItem from="1545591093965" duration="7675000" />
+      <workItem from="1545600428839" duration="7087000" />
+      <workItem from="1545682736003" duration="2028000" />
+      <workItem from="1545868654444" duration="6250000" />
+      <workItem from="1545956134818" duration="3071000" />
+      <workItem from="1546037134847" duration="13972000" />
+      <workItem from="1546116075513" duration="5217000" />
+      <workItem from="1546206577861" duration="7934000" />
+      <workItem from="1546803311937" duration="4043000" />
+      <workItem from="1546808855774" duration="838000" />
+      <workItem from="1546812264545" duration="865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300381000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5053305" side_tool="true" weight="0.22447014" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7799564" visible="true" weight="0.17590618" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" weight="0.32949308" />
+      <window_info id="Structure" order="1" sideWeight="0.22004357" side_tool="true" visible="true" weight="0.17590618" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4946695" weight="0.3267974" />
+      <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" sideWeight="0.49946696" visible="true" weight="0.3714597" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49413645" weight="0.2875817" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="9" weight="0.32949308" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="15" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49946696" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49413645" weight="0.32851636" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4946695" weight="0.22447014" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5053305" side_tool="true" visible="true" weight="0.22447014" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Managers/AssetBundleManager.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Managers/AssetBundleManager.cs" initialLine="42">
+            <startOffsets>
+              <startOffset value="1244" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1297" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="191" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6258E3D-7F59-4E3B-8D0C-F4DC34EE16EC/e9/2316aeef/Dictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="187" column="16" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/RoomData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/ModelEnums.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7677E71-9657-4BC9-AC47-B4F774AAE33F/61/d55d4fd9/AssetDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="436" column="20" selection-start-line="436" selection-start-column="20" selection-end-line="436" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/29/39245278/ScreenOrientation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/ObjectPoolManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RoomWallManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/6a/d45daea8/Touch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/f6/0a2c0464/EventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EditModeButton.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/73/40f12814/Input.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="224" column="8" selection-start-line="224" selection-start-column="8" selection-end-line="224" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VisualsHider.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/EditButtonEventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventArgs/RoomSelectedEventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/Shop/ShopScrollUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScripts/RoomInFocusHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Views/PlaceableShopView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="23" column="131" selection-start-line="23" selection-start-column="131" selection-end-line="23" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54E28512-DE74-4749-818A-2C82B66FE5DE/4f/30e1a984/ExecuteEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EditModeButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GridControllers/Grid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/HotelData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/PlaceableChild.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/SceneManagers/MainGameSceneManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScripts/TouchCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5525">
+          <caret line="329" column="56" selection-start-line="329" selection-start-column="56" selection-end-line="329" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlaceableFootprintDisplay.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GameMainManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temp/Compiled-Standard.shader" />
+    <entry file="file://$PROJECT_DIR$/Temp/Compiled-Unlit-GridOverlay.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Materials/GridShader.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/CreateAssetBundles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="17" column="96" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/AssetBundleManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1541890702652" expanded="false" signature="6:104" ph="..." />
+            <marker date="1541890702652" expanded="true" signature="309:340" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="377:405" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="429:595" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="635:920" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="1090:1415" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="1230:1332" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="1630:1689" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="1761:1857" ph="{...}" />
+            <marker date="1541890702652" expanded="true" signature="1934:2112" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/WallEdgeManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/RoomSelectionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ItemModifyWheel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/HotelController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/Room.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/Placeable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="51" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/IDataStoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableFootprintDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/DefaultPlaceableEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="176" column="47" selection-start-line="176" selection-start-column="47" selection-end-line="176" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/DefaultDataStoreManger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/RoomController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <marker date="1546803594328" expanded="false" signature="6:242" ph="..." />
+            <marker date="1546803594328" expanded="true" signature="304:9409" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="319:809" ph="/* room grids job is to help reference the roomData to the references of the live objects that we spawn due to th ... */" />
+            <marker date="1546803594328" expanded="true" signature="1040:1177" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="1294:3670" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="2370:3528" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="3741:3891" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="3969:4057" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="4090:4512" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="4289:4461" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="4614:4831" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="4752:4821" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="4923:4982" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5066:5131" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5238:5381" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5436:5506" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5578:5901" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5690:5784" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="5975:6056" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="6099:6178" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="6282:6377" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="6500:6642" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="6770:6864" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="6964:7114" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7030:7104" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7205:7354" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7271:7344" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7467:7542" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7608:7735" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="7824:8011" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="8110:8190" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="8248:8601" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="8657:9015" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="9058:9122" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="9215:9274" ph="{...}" />
+            <marker date="1546803594328" expanded="true" signature="9342:9403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BuildControllers/AddRoomController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <marker date="1546803481504" expanded="false" signature="6:184" ph="..." />
+            <marker date="1546803481504" expanded="true" signature="231:613" ph="{...}" />
+            <marker date="1546803481504" expanded="true" signature="247:324" ph="{...}" />
+            <marker date="1546803481504" expanded="true" signature="365:611" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/DefaultConfigs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <marker date="1546805744645" expanded="false" signature="6:52" ph="..." />
+            <marker date="1546805744645" expanded="true" signature="270:2362" ph="{...}" />
+            <marker date="1546805744645" expanded="true" signature="412:1769" ph="{...}" />
+            <marker date="1546805744645" expanded="true" signature="528:879" ph="{...}" />
+            <marker date="1546805744645" expanded="true" signature="881:1162" ph="/* PlaceableData pd = new PlaceableData ... */" />
+            <marker date="1546805744645" expanded="true" signature="1272:1624" ph="{...}" />
+            <marker date="1546805744645" expanded="true" signature="1820:1947" ph="{...}" />
+            <marker date="1546805744645" expanded="true" signature="2029:2355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6494">
+          <caret line="385" column="59" selection-start-line="385" selection-start-column="59" selection-end-line="385" selection-end-column="59" />
+          <folding>
+            <marker date="1546808891046" expanded="false" signature="6:104" ph="..." />
+            <marker date="1546808891046" expanded="true" signature="137:19101" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="170:241" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="493:19099" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="3603:3669" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="3694:3765" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="3791:3867" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="3898:4773" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="4114:4349" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="4145:4311" ph="/* Debug.LogFormat(&quot;NavMeshData from {0}.{1} will not be added to the NavMesh world because the gameObject is a p ... */" />
+            <marker date="1546808891046" expanded="true" signature="4465:4664" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="4807:4934" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="4990:5687" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="5121:5302" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="5337:5471" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="5506:5643" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="5723:6676" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="5791:6001" ph="/* Use unscaled bounds - this differs in behaviour from e.g. collider components. ... */" />
+            <marker date="1546808891046" expanded="true" signature="6171:6262" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="6454:6666" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="6739:7369" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="6807:7017" ph="/* Use unscaled bounds - this differs in behaviour from e.g. collider components. ... */" />
+            <marker date="1546808891046" expanded="true" signature="7423:8115" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="7645:7896" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="7676:7858" ph="/* Debug.LogFormat(&quot;NavMeshData from {0}.{1} will not be added to the NavMesh world because the gameObject is a p ... */" />
+            <marker date="1546808891046" expanded="true" signature="8171:8338" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="8374:8525" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="8599:10150" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="8897:9101" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="9118:9213" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="9255:10140" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="10201:13807" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="10434:10626" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="10643:10732" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="10774:11273" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="11337:12444" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="11411:11630" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="11700:11924" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="11992:12430" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="12468:13379" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="12542:12696" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="12766:12925" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="12993:13365" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="13846:13946" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="14014:14465" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="14536:16190" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="14843:16044" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="14892:16030" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="15199:15624" ph="/* case NavMeshBuildSourceShape.Terrain: ... */" />
+            <marker date="1546808891046" expanded="true" signature="16226:16406" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="16451:16595" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="16500:16585" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="16648:17777" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="17491:17683" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="17804:19086" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="17853:18036" ph="{...}" />
+            <marker date="1546808891046" expanded="true" signature="18148:19076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreSettingsEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/EventManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          <folding>
+            <marker date="1546809391788" expanded="true" signature="6:47" ph="..." />
+            <marker date="1546809391788" expanded="true" signature="99:2245" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="317:846" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="877:917" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="945:1056" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="1144:1578" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="1282:1415" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="1432:1568" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="1665:1919" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="2005:2239" ph="{...}" />
+            <marker date="1546809391788" expanded="true" signature="2150:2229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/NewTestScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/EventTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

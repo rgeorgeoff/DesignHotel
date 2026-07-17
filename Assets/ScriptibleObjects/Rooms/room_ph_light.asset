@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dee4f13eec823e448862553145cf2fb, type: 3}
+  m_Name: room_ph_light
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1484863097393990, guid: 58463ba7ee5227e43bfe98b9713ee16d, type: 2}
+  AssetBundlePath: Assets/ScriptibleObjects/Rooms\room_ph_light.asset
+  Name: 
+  Cost: 0
+  ShopSprite: {fileID: 21300000, guid: 1a3b12edf4115854b87cdc4fbe63981e, type: 3}
+  DefaultPlaceableData:
+    Size: {x: 0, y: 0, z: 0}
+    ResourceFileLocation: 
+    Color: {r: 0, g: 0, b: 0, a: 0}
+    PlacableType: 0
